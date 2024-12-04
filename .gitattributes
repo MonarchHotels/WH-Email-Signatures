@@ -1,4 +1,4 @@
 *.png binary
 *.jpg binary
 *.gif binary
-main/WHBanner.png -text
+WHBanner.png -text
